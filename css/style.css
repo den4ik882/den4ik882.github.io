@@ -1,17 +1,22 @@
 main{
-	background-color: orange;
+	background-color: darkred;
 }
 
 .leftaside{
-	background-color: blue;
+	background-color: white;
 }
 
 .rightaside{
-	background-color: green;
+	background-color: white;
 }
 
 .title{
 	text-align: center;
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/03/79/87/8057c2f33cc1d31.jpg");
+	width: 100%;
+	background-repeat: no-repeat;
+
+	background-size:cover;
 }
 
 .article{
@@ -43,5 +48,11 @@ main{
 																																																																																																																																																																								   background-color: #9f2720;     border-color: #9f2720;  } .navbar-inverse .navbar-toggle:focus {     background-color: #9f2720;     border-color: #9f2720;  }
 .navbar-brand{
 	padding: 10px;
-	background-image: (./fotki/pitbull.img);
+	background-image: (./fotki/pitbull.img)
+
+}
+
+body{
+	background-color: #860000;
+
 }
